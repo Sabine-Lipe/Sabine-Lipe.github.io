@@ -1,5 +1,13 @@
-body { background-color: rgb(80,200,120); 
+body 
+{ 
+    background-color: rgb(80,200,120); 
     text-align: center;
     margin:3in solid green;
 }
-header{}
+
+header
+{
+    margin: 2em;
+    border: 2px solid green;
+    padding: 40px;
+}
