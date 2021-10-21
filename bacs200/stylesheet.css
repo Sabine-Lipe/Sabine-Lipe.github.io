@@ -9,7 +9,7 @@ body
 { 
     background-color: rgb(80,200,120); 
     text-align: center;
-    margin:1in solid green;
+    margin:1in;
 }
 
 header
@@ -24,6 +24,16 @@ h1
 {
     font-style:normal;
     font-size: 200%;
+}
+
+aside {
+    background-color:rgb(80,200,120);
+    font-size: 50%;
+    font-family: sans-serif;
+    color:black;
+    border: 2px solid green;
+    float: right;
+    width: 30%;
 }
 
 
