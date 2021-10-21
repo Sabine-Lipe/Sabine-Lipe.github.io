@@ -1,7 +1,6 @@
-:root
+body
 { 
-    color: rgb(80,200,120); 
-    --
+    background-color: rgb(80,200,120); 
     text-align: center;
     margin:1in solid green;
 }
