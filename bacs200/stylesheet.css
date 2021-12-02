@@ -54,7 +54,20 @@ aside {
     padding: 10px;
 }
 
-img{
+section{
+    box-sizing: border-box;
+    border: 1px blueviolet;
+    width: 95%;
+    float: left;
+}
+
+div {
+    margin: 5px;
+    width: 50px;
+    height: 150px;
+}
+
+.left {
     float: left;
 }
 
