@@ -47,5 +47,13 @@ aside {
     padding: 20px;
 }
 
+#blog_posts {
+    display: grid;
+    grid-template-rows: auto auto auto auto;
+    text-align: right;
+    padding: auto;
+}
+
+
 
 
