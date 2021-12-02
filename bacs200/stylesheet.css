@@ -36,9 +36,15 @@ aside {
     width: 30%;
 }
 
-div{
+#grid{
     display: grid;
     grid-template-columns: auto auto auto;
+}
+
+#grid > div {
+    text-align: center;
+    border: 3px blueviolet;
+    padding: 20px;
 }
 
 
