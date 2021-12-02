@@ -52,7 +52,10 @@ aside {
     grid-template-rows: auto auto auto auto;
     text-align: right;
     padding: 10px;
+}
 
+img{
+    float:right;
 }
 
 
