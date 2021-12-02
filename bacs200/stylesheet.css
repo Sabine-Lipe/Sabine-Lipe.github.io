@@ -51,7 +51,7 @@ aside {
     display: grid;
     grid-template-rows: auto auto auto auto;
     text-align: right;
-    padding: auto;
+    padding: 10px;
 
 }
 
